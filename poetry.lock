@@ -281,7 +281,7 @@ zstd = ["zstandard"]
 name = "python-dotenv"
 version = "0.20.0"
 description = "Read key-value pairs from a .env file and set them as environment variables"
-category = "dev"
+category = "main"
 optional = false
 python-versions = ">=3.5"
 
@@ -387,7 +387,7 @@ testing = ["coverage (>=4)", "coverage-enable-subprocess (>=1)", "flaky (>=3)", 
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.9"
-content-hash = "8448a271fb2a1ba03851cbb71097474215352d9b3e3c0c2ffc94c32333bc5f4b"
+content-hash = "5aa1bf68e7c50e20ac895d606a063df8bbaaee6e4dd853909d530523dde9458a"
 
 [metadata.files]
 anyio = [

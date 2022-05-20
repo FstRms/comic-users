@@ -10,6 +10,7 @@ fastapi = "^0.75.1"
 uvicorn = "^0.17.6"
 pymongo = "^4.1.1"
 dnspython = "^2.2.1"
+python-dotenv = "^0.20.0"
 
 [tool.poetry.dev-dependencies]
 pre-commit = "^2.18.1"
